@@ -1,4 +1,12 @@
-<h1 align="center">👾 Dan</h1>
+<head>
+<style>
+p {
+  background-image: url('https://t4.ftcdn.net/jpg/02/97/79/83/360_F_297798377_VB9egqGnRKcZxU53wybEHLRnnTrcvlAH.jpg');
+}
+</style>
+</head>
+
+<h1 align="center">👋 Danilo Spillebeen </h1>
 
 <p align ="left> <a href="https://uclouvain.be/fr/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/UCLouvain_logo.svg/2560px-UCLouvain_logo.svg.png" alt="ucl" height="40" </a></p>
 
