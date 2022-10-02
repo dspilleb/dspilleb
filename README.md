@@ -1,5 +1,5 @@
 <h1 align="center">👋 Danilo Spillebeen </h1>
-<h2 align="center"> Currently studying at : </h2>
+<h3 align="center"> Currently studying at : </h3>
 <p align ="left> <a href="https://uclouvain.be/fr/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/UCLouvain_logo.svg/2560px-UCLouvain_logo.svg.png" alt="ucl" height="40" </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
