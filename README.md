@@ -1,5 +1,5 @@
 <h1 align="center"> 💻 Danilo Spillebeen </h1>
-<h3 align="left"> Currently studying in Belgium at : </h3>
+<h2 align="left"> Currently studying in Belgium at : </h2>
 <p align ="left> 
 
 <a href="https://uclouvain.be/fr/index.html" target="_blank" rel="noreferrer noopener">
@@ -13,7 +13,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 
 <!-- Languages Pictures -->
