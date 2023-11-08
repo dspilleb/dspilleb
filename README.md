@@ -2,7 +2,7 @@
 <h3 align="left"> Currently studying in Belgium at : </h3>
 <p align ="left> 
 
-<a href="https://uclouvain.be/fr/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/UCLouvain_logo.svg/2560px-UCLouvain_logo.svg.png" alt="ucl" height="70" <p> 2nd year Bachelor CS </p> </a>
+<a href="https://uclouvain.be/fr/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/UCLouvain_logo.svg/2560px-UCLouvain_logo.svg.png" alt="ucl" height="70" </a> <p> 2nd year Bachelor CS </p>
 <a href="https://campus19.be/" target="_blank" rel="noreferrer"> <img src="https://cdn.dorik.com/60d9e60019777c001197de7e/629a22a6e91a890012ba18dc/images/19-blanc_yd72cr9s.png" alt="19" height="70" </a> 
 
 </p>
