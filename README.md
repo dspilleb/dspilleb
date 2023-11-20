@@ -11,7 +11,7 @@
 <p>➩  2nd year Bachelor CS</p>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools :</h2>
 <p align="left">
 
 <!-- Languages Pictures -->
@@ -24,3 +24,10 @@
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspilleb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+ 
+<h2 align="left">Hackathons :</h2>
+<ul>
+  <li>24H Hackathon by the CECI from UCL (2023) </li>
+  <!-- <li>48H Hackathon by Odoo (3rd Edition, 2023)</li> -->
+</ul>  
