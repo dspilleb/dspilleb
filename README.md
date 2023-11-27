@@ -29,5 +29,5 @@
 <h2 align="left">Hackathons :</h2>
 <ul>
   <li>24H Hackathon by the CECI from UCL (2023) </li>
-  <!-- <li>48H Hackathon by Odoo (3rd Edition, 2023)</li> -->
+  <li>48H Hackathon by Odoo (3rd Edition, 2023)</li>
 </ul>  
