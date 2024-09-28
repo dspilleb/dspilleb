@@ -12,15 +12,9 @@
 </p>
 
 <h2 align="left">Languages and Tools :</h2>
-<p align="left">
 
 <!-- Languages Pictures -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,vscode,linux,github,git)](https://skillicons.dev)
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspilleb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
