@@ -14,7 +14,7 @@
 <!-- Languages Pictures -->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,vscode,linux,github,git)](https://skillicons.dev)
 
-* 3rd year university Bachelor in `Computer Science` at Uclouvain and `19 school` member (42 brussels).
+* 1st year university Master in `Computer Science` at Uclouvain in Cybersecurity and `19 school` member (42 brussels).
 
 
  <!-- 
