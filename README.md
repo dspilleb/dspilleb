@@ -1,4 +1,4 @@
-<h1 align="center"> Dan </h1>
+<h1 style="font-size: 60px;text-align:center;">DAN</h1>
 
 <p align ="left> 
     <a href="https://www.uclouvain.be/fr" target="_blank" rel="noreferrer noopener">
