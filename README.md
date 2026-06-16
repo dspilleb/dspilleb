@@ -1,33 +1,15 @@
-<h1 align="center"> 💻 Danilo Spillebeen </h1>
+<h1 align="center"> Dan </h1>
 
 <p align ="left> 
-    <a href="https://uclouvain.be/fr/index.html" target="_blank" rel="noreferrer noopener">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/UCLouvain_logo.svg/2560px-UCLouvain_logo.svg.png" alt="ucl" height="70">
+    <a href="https://www.uclouvain.be/fr" target="_blank" rel="noreferrer noopener">
+        <img src="https://www.uclouvain.be/fr/presse/logo-de-l-uclouvain" alt="uclouvain" height="70">
     </a>
-    <a href="https://campus19.be/" target="_blank" rel="noreferrer noopener">
-        <img src="https://cdn.dorik.com/60d9e60019777c001197de7e/629a22a6e91a890012ba18dc/images/19-blanc_yd72cr9s.png" alt="19" height="70">
+    <a href="https://42belgium.be/fr/" target="_blank" rel="noreferrer noopener">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4iEAfvXXGK80hs5ARDVLfT0F_904ce9g8-PIWoyM9A&s=10" alt="42school" height="70">
     </a>
 </p>
 
-
-
 <!-- Languages Pictures -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,vscode,linux,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,vscode,linux,git)](https://skillicons.dev)
 
-* 1st year university Master in `Computer Science` at Uclouvain in Cybersecurity and `42 school` member (Brussels).
-
-
- <!-- 
-<details> 
-<summary>
-
-## Extra
-
-</summary>
-
-## Hackathons
-
-- 24H Hackathon by the CECI from `UCLouvain` (2023)
-- 48H Hackathon by `Odoo` (3rd Edition, 2023)
-</details>
--->
+* 1st year Master in `Computer Science` at Uclouvain University (option Cybersecurity) and `42 school` alumni (Brussels).
