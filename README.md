@@ -2,7 +2,7 @@
 
 <p align ="left> 
     <a href="https://www.uclouvain.be/fr" target="_blank" rel="noreferrer noopener">
-        <img src="https://www.uclouvain.be/fr/presse/logo-de-l-uclouvain" alt="uclouvain" height="70">
+        <img src="https://www.uclouvain.be/system/files/uclouvain_assetmanager/groups/cms-editors-presse/infos-utiles-ucl/logo_UCLouvain_1440X1200px.png" alt="uclouvain" height="70">
     </a>
     <a href="https://42belgium.be/fr/" target="_blank" rel="noreferrer noopener">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4iEAfvXXGK80hs5ARDVLfT0F_904ce9g8-PIWoyM9A&s=10" alt="42school" height="70">
